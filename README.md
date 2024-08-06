@@ -35,4 +35,4 @@
  - Controle de Fluxo e Estruturas de Repetição: Implementação de loops e decisões condicionais para controle do fluxo do programa.
  - Manipulação de String e Data: Conversão e formatação de strings e datas.
 
- Este projeto demonstra a aplicação de conceitos fundamentais de programação em C++, oferecendo uma solução prática para o gerenciamento de logs de segurança, com a capacidade de filtrar, visualizar e exportar dados de maneira eficiente.
+ Este projeto demonstra a aplicação de conceitos fundamentais de programação em C++, oferecendo uma solução prática para o gerenciamento de logs de segurança, com a capacidade de filtrar, visualizar e exportar dados de maneira eficiente. O programa acompanha um arquivo de exemplo, chamado snortsyslog, que pode ser utilizado para testar as funcionalidades do sistema. Este arquivo contém logs de segurança simulados que permitem ao usuário explorar e aplicar diferentes filtros para entender como o sistema funciona.
